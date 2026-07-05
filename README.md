@@ -1,8 +1,8 @@
-# 📧 Email Spam Detection using Machine Learning
+# 📧 Email Spam Detection using Machine Learning & TF-IDF Vectorization
 
 ## Project Overview
 
-This project classifies SMS messages as **Spam** or **Ham (Not Spam)** using Machine Learning.
+This project classifies email messages as **Spam** or **Ham (Not Spam)** using Machine Learning.
 
 The model is trained using **Logistic Regression** and **TF-IDF Vectorization**.
 
@@ -10,7 +10,7 @@ The model is trained using **Logistic Regression** and **TF-IDF Vectorization**.
 
 ## Dataset
 
-SMS Spam Collection Dataset
+Email Spam Collection Dataset
 
 Columns:
 
